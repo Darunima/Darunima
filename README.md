@@ -3,7 +3,7 @@
 AI&DS pre-final year @ Rajalakshmi Institute Of Technology
 - 🔭 Here's my [portfolio]                                                
 - 🌱 I’m currently working on backend skills
-- UI/UX, Frontend developer
+- UI/UX, Frontend & web developer
 - Interested field <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-robotics-automation-technology-flaticons-lineal-color-flat-icons.png" alt="external-robotics-automation-technology-flaticons-lineal-color-flat-icons"/>
 
 ### I code in
